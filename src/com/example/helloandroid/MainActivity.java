@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
+//push test ueno
 public class MainActivity extends Activity {
 
 	@Override
